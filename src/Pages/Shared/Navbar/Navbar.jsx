@@ -22,6 +22,7 @@ const Navbar = () => {
     <li><NavLink className="text-[#706F6F] text-lg" to="/">Home</NavLink></li>
     <li><NavLink className="text-[#706F6F] text-lg" to="/about">About</NavLink></li>
     <li><NavLink className="text-[#706F6F] text-lg" to="/career">Career</NavLink></li>
+    <li><NavLink className="text-[#706F6F] text-lg" to="/register">addict</NavLink></li>
 
   </>
   return (
